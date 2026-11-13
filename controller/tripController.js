@@ -174,5 +174,4 @@ export const startTripController=async(request,reply)=>{
             message:"Trip is failed to book"
         })
     }
-    
 }
